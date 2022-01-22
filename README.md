@@ -1,6 +1,9 @@
 # news_app
 - Get All News from Api by Categroy
 - MVC technology using Getx State managemen
+- Web View for Each one![InkedScreenshot_1642883856_LI](https://user-images.githubusercontent.com/78031951/150654761-513dc797-1fca-4db3-8075-df6c9c2357df.jpg)
+![Screenshot_1642883856](https://user-images.githubusercontent.com/78031951/150654764-17e97b62-2c38-4900-8a54-993b7f36dc12.png)
+
 - Smart Search Feature , Light and Dark Mode Theme![Screenshot_1642883044](https://user-images.githubusercontent.com/78031951/150654502-c694c3e0-3c51-44d3-9348-e761cb289df4.png)
 ![Screenshot_1642883049](https://user-images.githubusercontent.com/78031951/150654506-43137f9d-19f0-4d1b-806a-d239b473b195.png)
 ![Screenshot_1642883052](https://user-images.githubusercontent.com/78031951/150654510-7884a201-7a2f-44cf-84d4-bfa9b6bc4c63.png)

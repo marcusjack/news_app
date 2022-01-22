@@ -17,7 +17,6 @@ class NewsSearchScreen extends StatelessWidget {
             },
             icon: Icon(
               Icons.arrow_back,
-              color: Colors.black,
             ),
           ),
           title: TextFormField(
@@ -25,6 +24,7 @@ class NewsSearchScreen extends StatelessWidget {
               print(value);
               newsLayoutController.getSearch(value.toString());
             },
+            style: Theme.of(context).textTheme.bodyText1,
             decoration: InputDecoration(
               hintText: "Search",
               border: InputBorder.none,

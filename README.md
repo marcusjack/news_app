@@ -4,6 +4,7 @@
 - Web View for Each one
 
 - Smart Search Feature , Light and Dark Mode Theme
+
 ![150654502-c694c3e0-3c51-44d3-9348-e761cb289df4](https://user-images.githubusercontent.com/78031951/150731814-9ddff247-0ba5-47a0-8fbd-174df50edab6.png)
 ![150654506-43137f9d-19f0-4d1b-806a-d239b473b195](https://user-images.githubusercontent.com/78031951/150731815-1f00bd5d-7018-4d9d-90cf-c52fb38a970c.png)
 ![150654510-7884a201-7a2f-44cf-84d4-bfa9b6bc4c63](https://user-images.githubusercontent.com/78031951/150731816-84ed23bb-7a96-47b0-9358-c85d04609ad9.png)

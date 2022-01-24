@@ -1,4 +1,4 @@
-# news_app
+# Flutter news_app
 - Get All News from Api by Categroy
 - MVC technology using Getx State managemen
 - Web View for Each one
